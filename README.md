@@ -20,3 +20,5 @@ To start, run the Command:
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+![video](https://github.com/nikhil-x24/Random-GIF/assets/94430005/49fcc985-7c14-40f3-a4f7-705abbbc88b4)
